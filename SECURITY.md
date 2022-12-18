@@ -7,5 +7,8 @@ If you require a specific version to be patched, please get in touch by creating
 
 ## Reporting a Vulnerability
 
-If you discover a vulnerability, please report it by creeating an issue in this repo.
+If you discover a vulnerability, please report it by either creating an issue in the repo containing the issue, or create a [organisational level discussion](https://github.com/orgs/creek-service/discussions/new) if the vulnerability affects multiple repositories.
+
+
+
 
