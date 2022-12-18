@@ -33,7 +33,10 @@ Contributions welcome!
   * Running `./gradlew coverage` will produce a code coverage report in 
     [`<project-roo>/build/reports/jacoco/coverage/html/index.html>`](build/reports/jacoco/coverage/html/index.html)
 * Push your changes to a feature branch in your fork of the repository.
-* [Open a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork) to merge the changes from your branch into the main branch.
-* Please reference the Github issue number in your pull request via a `fixed: #<your-issue-number>`.
+* [Open a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork), also known as a PR, to merge the changes from your branch into the main branch.
+* Don't forget to [link your PR to the issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue) if you are solving one.
+* Enable the checkbox to [allow maintainer edits](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/allowing-changes-to-a-pull-request-branch-created-from-a-fork) so the branch can be updated for a merge.
 * Ensure all checks pass on the pull request.
+* Once you submit your PR, a team member will review your proposal. We may ask questions or request additional information. We may ask for changes to be made before a PR can be merged, either using [suggested changes](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/incorporating-feedback-in-your-pull-request) or pull request comments.
+* As you update your PR and apply changes, mark each conversation as [resolved](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/commenting-on-a-pull-request#resolving-conversations).
 
