@@ -11,6 +11,7 @@ Mark your PRs with the following labels, as appropriate:
 Labels marked with `**` are excluded from release notes
 
 ### Reviewer checklist
-- [ ] Ensure relevant issues are linked (description should include text like "Fixes #<issue number>")
-- [ ] Ensure correct labels applied
-- [ ] Ensure any appropriate documentation has been added or amended
+ - [ ] Read the [contributing guide](https://github.com/mockito/mockito/blob/main/.github/CONTRIBUTING.md)
+ - [ ] PR should be motivated, i.e. what does it fix, why, and if relevant, how
+ - [ ] Ensure relevant issues are linked (description should include text like "Fixes #<issue number>")
+ - [ ] Ensure any appropriate documentation has been added or amended
