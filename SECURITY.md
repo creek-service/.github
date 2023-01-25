@@ -7,8 +7,7 @@ If you require a specific version to be patched, please get in touch by creating
 
 ## Reporting a Vulnerability
 
-If you discover a vulnerability, please report it by either creating an 'bug' issue in the repo containing the issue, or create a [Creek-wide security discussion](https://github.com/orgs/creek-service/discussions/new?category=security) if the vulnerability affects multiple repositories.
-
+If you discover a vulnerability, please report it by [privately reporting a security vulnerability](https://docs.github.com/en/code-security/security-advisories/guidance-on-reporting-and-writing/privately-reporting-a-security-vulnerability#privately-reporting-a-security-vulnerability) in either the GitHub repository containing the issue, or in the [Organisational .github repository](https://github.com/creek-service/.github/security/advisories/new).
 
 ## Timings
 
