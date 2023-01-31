@@ -11,5 +11,5 @@ If you discover a vulnerability, please report it by [privately reporting a secu
 
 ## Timings
 
-Creek is an open-source project maintained by volunteers. As such, we offer no hard and fast guarentees on response times. However, we aim to respond to all questions and issues within 7 days, and would obviously treat security issues with a higher priority.
+Creek is an open-source project maintained by volunteers. As such, we offer no hard and fast guarantees on response times. However, we aim to respond to all questions and issues within 7 days, and would obviously treat security issues with a higher priority.
 
