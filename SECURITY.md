@@ -2,7 +2,7 @@
 
 ## Supported Versions
 
-Security vunerabilities will be 'fixed forward', i.e. the vunerability will be patched in a new release.
+Security vulnerabilities will be 'fixed forward', i.e. the vulnerability will be patched in a new release.
 If you require a specific version to be patched, please get in touch by creating a [Creek-wide support discussion](https://github.com/orgs/creek-service/discussions/new?category=support)
 
 ## Reporting a Vulnerability
